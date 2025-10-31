@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Test Git Webhooks",
+  "description": "Professional cleaning services in Seattle, WA",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Seattle",
+    "addressRegion": "WA",
+    "addressCountry": "US"
+  },
+  "telephone": "206-555-9999",
+  "email": "test@gitwebhooks.com",
+  "url": "https://test-git-webhooks.vercel.app",
+  "priceRange": "$$",
+  "areaServed": {
+    "@type": "City",
+    "name": "Seattle"
+  },
+  "serviceType": "cleaning",
+  "slogan": "Your trusted cleaning experts",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "reviewCount": "127"
+  }
+}
